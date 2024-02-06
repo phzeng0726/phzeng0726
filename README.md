@@ -1,4 +1,9 @@
 # Hey There! 👋
+
 I'm Rita.
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,docker,figma)](https://skillicons.dev)<br/>
+## Skills
+
+[![BE](https://skillicons.dev/icons?i=go,py,mysql,sqlite,graphql,gcp,aws,firebase)](https://skillicons.dev)<br/>
+[![FE](https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,tailwind)](https://skillicons.dev)<br/>
+[![Others](https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma)](https://skillicons.dev)<br/>
