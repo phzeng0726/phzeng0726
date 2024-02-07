@@ -1,6 +1,7 @@
 # Hey There! 👋
 
-I'm Rita. I'm a software engineer.
+I'm Rita. I'm a software engineer with a passion for developing backend programs and cross-platform applications!
+
 
 ## Skills
 
