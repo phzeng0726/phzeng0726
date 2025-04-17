@@ -10,7 +10,7 @@ I'm Rita. I'm a software engineer with a passion for developing backend programs
 
 ### Backend and Server
 
-[![Backend and Server](https://skillicons.dev/icons?i=flask,graphql,redis,mysql,sqlite,firebase,dynamodb,docker,nginx,rabbitmq)](https://skillicons.dev)<br/>
+[![Backend and Server](https://skillicons.dev/icons?i=graphql,redis,postgres,mysql,sqlite,firebase,dynamodb,docker,nginx,rabbitmq)](https://skillicons.dev)<br/>
 
 ### Mobile/Web Development
 
