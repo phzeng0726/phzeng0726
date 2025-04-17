@@ -14,12 +14,9 @@ I'm Rita. I'm a software engineer with a passion for developing backend programs
 
 ### Mobile/Web Development
 
-[![Mobile/Web Development](https://skillicons.dev/icons?i=flutter,react,redux,tailwind)](https://skillicons.dev)<br/>
+[![Mobile/Web Development](https://skillicons.dev/icons?i=flutter,react,tailwind)](https://skillicons.dev)<br/>
 
 ### Cloud Services and DevOps
 
 [![Cloud Services and DevOps](https://skillicons.dev/icons?i=gcp,aws,git,jenkins)](https://skillicons.dev)
 
-### Others
-
-[![Others](https://skillicons.dev/icons?i=postman,linux,powershell,md)](https://skillicons.dev)
